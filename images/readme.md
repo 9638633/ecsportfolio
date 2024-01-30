@@ -12,7 +12,7 @@
             <h1>ECS Portfolio | Peyton Carter | 2024</h1>
          </div>
          <div class="nav">
-            <h3><a href="index.html">Home</a> | <a href="index.html">Home</a> | <a href="index.html">Home</a></h3>
+            <h3><a href="../index.html">Home</a> | <a href="index.html">ECS</a> | <a href="../Sports/index.html">ECS</a></h3>
          </div>
          <div class="content">
             <p>Hello World!</p>
